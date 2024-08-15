@@ -1,0 +1,33 @@
+/* HeroSection.css */
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container{
+  display: flex;
+  align-items: center;
+  text-align: center;
+  background-color: antiquewhite;
+  gap: 100px;
+  padding-left: 190px;
+
+}
+.card{
+  padding: 20px;
+  
+ 
+
+}
+.card img{
+  
+  max-width: 100px;
+  border-radius: 50%;
+}
+.card h1{
+  align-items: center;
+  text-align: center;
+  font-size: small;
+}
+
